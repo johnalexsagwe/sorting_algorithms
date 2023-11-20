@@ -1,4 +1,4 @@
-####Project Overview:
+<Project Overview:>
 The primary goal of the project is to implement and analyze various sorting algorithms in the C programming language. The participating teams are expected to gain a deep understanding of sorting algorithms, Big O notation, and related concepts.
 
 ####Learning Objectives:
